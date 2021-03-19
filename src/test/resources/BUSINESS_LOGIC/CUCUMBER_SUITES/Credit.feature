@@ -1,4 +1,4 @@
-Feature: Login Feature
+Feature: Credit Feature
 
 Background: User is successfully logged in
 When user opens "Linux" OperatingSystem and user opens "Chrome" browser
