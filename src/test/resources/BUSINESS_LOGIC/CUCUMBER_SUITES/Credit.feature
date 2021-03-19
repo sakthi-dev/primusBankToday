@@ -8,8 +8,8 @@ When user enters the url "http://primusbank.qedgetech.com/"
 Scenario: Login Functionality for valid username and password
 When user enters "Admin" as username
 When user enters "Admin" as password
-When user clicks on login  button
 Then user is on the "Admin" main page and get message as welcome to Admin
+Then credit login scenario is successfull
 	
 	
 	
