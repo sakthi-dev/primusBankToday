@@ -11,3 +11,4 @@ When user enters "Admin" as password
 When user clicks on login  button
 Then user is on the "Admin" main page and get message as welcome
 Then Login scenario is successfull
+Then Login scenario is fail
