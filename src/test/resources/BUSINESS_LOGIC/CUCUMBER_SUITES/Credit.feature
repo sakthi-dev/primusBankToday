@@ -10,6 +10,7 @@ When user enters "Admin" as username
 When user enters "Admin" as password
 Then user is on the "Admin" main page and get message as welcome to Admin
 Then credit login scenario is successfull
+Then Login is fail
 	
 	
 	
